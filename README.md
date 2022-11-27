@@ -1,0 +1,2 @@
+# AIDLServerClient
+AIDL IPC Communication
